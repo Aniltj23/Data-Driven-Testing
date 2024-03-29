@@ -5,6 +5,10 @@ Automation code for Data-driven testing of calculation of Fixed Deposit on a web
 
 **Language**: Python.
 
+**Automation Tool**: Selenium.
+
+**WebDriver**: Google Chrome.
+
 **Type**: Data-driven Testing.
 
 
