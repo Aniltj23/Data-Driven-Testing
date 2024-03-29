@@ -12,4 +12,4 @@ Description
 
 Inside the Reusable-Functions.py, different functions required for the data-driven test automation are defined with parameters to enable code reusability.
 
-The Main-Program.py contains all the main codes where Reusable-Function.py is imported.
+The Main-Program.py contains all the main code where Reusable-Function.py is imported and data is passed.
